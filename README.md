@@ -39,12 +39,6 @@ The notebook includes visualizations of the data, including:
 * WordCloud of Toxic Comments
 * Comparison of Classification Approaches
 
-## Usage
-
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo-name.git`
-2. Install dependencies (listed in requirements.txt)
-3. Run the `Toxic_Comment_Classification.ipynb` notebook. 
-
 
 ## Further Improvements
 
